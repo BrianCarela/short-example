@@ -1,0 +1,11 @@
+#grades-2 {
+    color: red;
+  }
+  
+  .bordered{
+    border: 1px solid red;
+  }
+  
+  #grades {
+    border: 3px dotted blue;
+  }
